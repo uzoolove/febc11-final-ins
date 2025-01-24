@@ -16,3 +16,4 @@
 13. [디자인 작업시 주의사항](./docs/13.design.md)
 14. [API 서버 사용 가이드](./docs/14.api.md)
 15. [자주 묻는 질문](./docs/15.qna.md)
+16. [리팩토링 가이드](./docs/16.refactoring.md)
